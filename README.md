@@ -10,6 +10,7 @@ For example:<br>
 It will create a picture called test.png that show National Central University,Taiwan<br>
 <br>
 Usage  : GoogleMap_PNGMaker [latitude] [longitude] [zoom] [ouput file width] [output file height] [maptype] [output file name]<br>
+maptype: roadmap, satellite, hybrid, terrai<br>
 For example:<br>
 ./GoogleMap_PNGMaker 24.9708264 121.1882077 15 500 500 satellite test.png<br>
 It will create a 500x500 satellite map called test.png that show National Central University, Taiwan<br>
